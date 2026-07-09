@@ -1,0 +1,44 @@
+[
+  {
+    "id": "faq-001",
+    "category": "Scheduling",
+    "question": "How do I reschedule a tutoring session?",
+    "answer": "You can reschedule a tutoring session up to 24 hours before the appointment from the parent portal. Open the session, choose Reschedule, and pick an available time with the same tutor.",
+    "active": true
+  },
+  {
+    "id": "faq-002",
+    "category": "Billing",
+    "question": "What payment methods do you accept?",
+    "answer": "BrightPath Tutoring accepts major credit cards, debit cards, and ACH bank payments. Monthly plans are billed on the first day of each month.",
+    "active": true
+  },
+  {
+    "id": "faq-003",
+    "category": "Programs",
+    "question": "Do you offer SAT prep?",
+    "answer": "Yes. BrightPath offers SAT prep in 8-week and 12-week tracks. Each track includes diagnostic testing, weekly tutoring, practice assignments, and a final progress review.",
+    "active": true
+  },
+  {
+    "id": "faq-004",
+    "category": "Tutors",
+    "question": "Can I choose my child's tutor?",
+    "answer": "Families can request a preferred tutor. If that tutor is unavailable, BrightPath recommends a tutor based on subject, grade level, learning goals, and schedule.",
+    "active": true
+  },
+  {
+    "id": "faq-005",
+    "category": "Cancellations",
+    "question": "What is your cancellation policy?",
+    "answer": "Sessions canceled at least 24 hours in advance are credited back to the family account. Late cancellations may be charged unless there is an emergency.",
+    "active": true
+  },
+  {
+    "id": "faq-006",
+    "category": "Progress",
+    "question": "How do parents track progress?",
+    "answer": "Parents receive a monthly progress summary with attendance, topics covered, tutor notes, and recommended next steps. Tutors may also send quick notes after individual sessions.",
+    "active": true
+  }
+]
